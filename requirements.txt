@@ -1,0 +1,17 @@
+# Web Framework
+Flask==3.0.0
+flask-cors==4.0.0
+
+# Ollama API
+ollama==0.3.3
+
+# BM25 (Keyword-based sparse retrieval)
+rank-bm25==0.2
+
+# Milvus Vector Database
+pymilvus==2.5.18
+
+# Utilities
+python-dotenv>=1.0.1
+markdown==3.5.1
+chardet==5.2.0
